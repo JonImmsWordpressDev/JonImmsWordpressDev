@@ -1,6 +1,6 @@
 # Hi, I'm Jon
 
-Full-stack engineer building **AI solutions** and **scalable web architecture**. 15 years in, I focus on systems that ship and keep working: agentic workflows, automation, and high-performance web platforms.
+Full-stack engineer building **AI solutions** and **scalable web architecture**. 18 years in, I focus on systems that ship and keep working: agentic workflows, automation, and high-performance web platforms.
 
 Based in Omaha, NE, where I work as a **[WordPress developer in Omaha](https://jonimms.com/wordpress-developer-omaha/)** (originally from Newcastle upon Tyne, UK).
 
